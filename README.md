@@ -1,0 +1,2 @@
+# transporter_fix
+修复transporter一直卡在正在验证不动的问题
