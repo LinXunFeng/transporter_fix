@@ -45,7 +45,7 @@ python main.py
 
 
 
-蓝奏云链接: [com.apple.amp.itmstransporter.zip](https://www.lanzous.com/ia51wkd)
+[点我下载压缩包](https://www.lanzous.com/b0aqkmhpg)，找个离当前日期最近的下载，记得下载下来后改名为 `com.apple.amp.itmstransporter.zip`
 
 
 
