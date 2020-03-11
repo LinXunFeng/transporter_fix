@@ -30,7 +30,7 @@ python main.py
 
 ## 懒人版
 
-直接下载 [transporter_fix]() 后双击运行即可。
+直接下载 [transporter_fix](https://github.com/LinXunFeng/transporter_fix/releases) 后双击运行即可。
 
 ![](./screenshots/3.png)
 
