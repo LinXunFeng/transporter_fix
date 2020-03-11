@@ -13,7 +13,7 @@ def modify_repository_content(xml_path):
 
 if __name__ == '__main__':
 
-    current_dir = "{}".format(os.getcwd())
+    current_dir = info_manager.get_current_dir_path()
 
     files_dirname = constrants.FILES_DIR_NAME
     files_dir = os.path.join(current_dir, files_dirname)
@@ -47,8 +47,11 @@ if __name__ == '__main__':
     modify_repository_content(xml_filepath)
 
     # 覆盖itmstransporter目录
+    print('覆盖itmstransporter目录')
     dst = os.path.join(info_manager.get_cache_path(), constrants.ITMSTRANSPORTER_ID)
-    print(dst)
+    # print(dst)
     file_manager.remove_dir(dst)
     file_manager.move_file_or_dir(itmstransporter_dir, dst)
+
+    print('执行完成，请重启Transporter，去愉快的上传应用文件吧~')
 
