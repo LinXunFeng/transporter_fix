@@ -1,20 +1,33 @@
 # transporter_fix
-修复transporter一直卡在正在验证不动的问题
+修复transporter一直卡在正在验证不动的问题，也适用于fastlane脚本上传ipa的方式
+
+
+
+## 更新记录
+
+> 请直接使用最新版本
+
+| transporter_fix 版本                                         | 苹果核心上传工具版本 | 日期     |
+| ------------------------------------------------------------ | -------------------- | -------- |
+| [0.0.2](https://github.com/LinXunFeng/transporter_fix/releases/tag/0.0.2) | 2.1.0                | 20201230 |
+| [0.0.1](https://github.com/LinXunFeng/transporter_fix/releases/tag/0.0.1) | 2.0.0                | 20200311 |
 
 
 
 ## 使用
 
-
+### 开发版
 
 安装依赖
 
 ```shell
+# 纯净方式
 pip install requests
 pip install tqdm
+
+# 懒人方式
+pip install -r requirements.txt
 ```
-
-
 
 运行
 
@@ -28,7 +41,7 @@ python main.py
 
 
 
-## 懒人版
+### 懒人版
 
 直接下载 [transporter_fix](https://github.com/LinXunFeng/transporter_fix/releases) 后双击运行即可。
 
@@ -45,7 +58,7 @@ python main.py
 
 
 
-[点我下载压缩包](https://www.lanzous.com/b0aqkmhpg)，找个离当前日期最近的下载，记得下载下来后改名为 `com.apple.amp.itmstransporter.zip`
+[点我下载压缩包](https://linxunfeng.lanzous.com/b0aqkmhpg)，找个离当前日期最近的下载，记得下载下来后改名为 `com.apple.amp.itmstransporter.zip`
 
 
 
