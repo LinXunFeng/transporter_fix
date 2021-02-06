@@ -1,7 +1,7 @@
 # transporter_fix
 修复transporter一直卡在正在验证不动的问题，也适用于fastlane脚本上传ipa的方式
 
-
+***好用请star，鼓励一下我哦！！！***
 
 ## 更新记录
 
@@ -76,3 +76,10 @@ python main.py
 
 
 
+## Author
+
+- LinXunFeng
+- email: [linxunfeng@yeah.net](mailto:linxunfeng@yeah.net)
+- Blogs: [全栈行动](https://fullstackaction.com/) | [LinXunFeng‘s Blog](http://linxunfeng.top/)  | [掘金](https://juejin.im/user/58f8065e61ff4b006646c72d/posts) 
+
+<img align="right" height="267.5" width="481.5" src="https://github.com/LinXunFeng/LinXunFeng/blob/master/static/img/FSAQR.png" />
