@@ -1,5 +1,11 @@
 # transporter_fix
-修复transporter一直卡在正在验证不动的问题，也适用于fastlane脚本上传ipa的方式
+
+![Author](https://img.shields.io/badge/author-LinXunFeng-blue.svg?style=flat-square)
+![Downloads](https://img.shields.io/github/downloads/LinXunFeng/transporter_fix/total?style=flat-square)
+![Version](https://img.shields.io/github/v/tag/LinXunFeng/transporter_fix?style=flat-square)
+
+## 功能
+> 修复transporter一直卡在正在验证不动的问题，也适用于fastlane脚本上传ipa的方式
 
 ***好用请star，鼓励一下我哦！！！***
 
